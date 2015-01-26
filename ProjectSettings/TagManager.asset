@@ -3,12 +3,6 @@
 --- !u!78 &1
 TagManager:
   tags:
-  - 10_left
-  - 20_left
-  - 30_left
-  - 10_right
-  - 20_right
-  - 30_right
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
