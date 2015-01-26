@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour {
 			x = Input.GetAxis ("LeftJoystickX2");
 			y = Input.GetAxis ("LeftJoystickY2");
 			
-			maxWidth = -6f;
+			maxWidth = -5f;
 			if (transform.position.x <= maxWidth) {
 				transform.position = new Vector3(maxWidth,transform.position.y,transform.position.z);		
 			} else if (transform.position.x >= 0f) {
