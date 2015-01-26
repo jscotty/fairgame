@@ -7,8 +7,12 @@ public class RotationScript : MonoBehaviour {
 	public float rotSpeed = 500f;
 
 	void Update () {
-		
-		rot = Input.GetAxis ("RightJoystickX");
+		if (name == "RacketLeft") {
+			rot = Input.GetAxis ("RightJoystickX");
+		}else if (name == "RacketRight") {
+			rot = Input.GetAxis ("RightJoystickX2");
+		}
+
 		
 		transform.Rotate(new Vector3(0f,0f,rot) * -1 * rotSpeed * Time.deltaTime);
 	}
