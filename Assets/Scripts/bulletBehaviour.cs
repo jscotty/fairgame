@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using XInputDotNetPure;
 
 public class bulletBehaviour : MonoBehaviour {
 
@@ -18,12 +19,14 @@ public class bulletBehaviour : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D other){
 		if (tag == "P1Bullet") {
 			if (other.transform.tag == "P2") {
-				other.transform.Translate(new Vector3(-1f,0f,0f)* 15f * Time.deltaTime);
+				GamePad.SetVibration(PlayerIndex.Two,1f,2f);
+				other.transform.Translate(new Vector3(-1f,0f,0f)* 45f * Time.deltaTime);
 				Destroy(gameObject);
 			}
 		} else if (tag == "P2Bullet") {
 			if (other.transform.tag == "P1") {
-				other.transform.Translate(new Vector3(-1f,0f,0f)* 15f * Time.deltaTime);
+				GamePad.SetVibration(PlayerIndex.One,1f,2f);
+				other.transform.Translate(new Vector3(-1f,0f,0f)* 45f * Time.deltaTime);
 				Destroy(gameObject);
 			}
 		}

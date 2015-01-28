@@ -54,7 +54,7 @@ public class ShootBehaviour : MonoBehaviour {
 			if (vibR <= 0f) {
 				vibR = 0f;	
 			}
-			GamePad.SetVibration(PlayerIndex.One, 0f, vibR);
+			//GamePad.SetVibration(PlayerIndex.One, 0f, vibR);
 		} else if (name == "RacketRight") {
 			if(Input.GetButtonDown("A2")){
 				tranNum = -2f;
@@ -68,7 +68,7 @@ public class ShootBehaviour : MonoBehaviour {
 			if (vibL <= 0f) {
 				vibL = 0f;	
 			}
-			GamePad.SetVibration(PlayerIndex.Two, 0f, vibL);
+			//GamePad.SetVibration(PlayerIndex.Two, 0f, vibL);
 		}
 
 		/* --;
@@ -89,6 +89,7 @@ public class ShootBehaviour : MonoBehaviour {
 	private void shoot(string bulletType){
 		if (bulletType == "normal") {
 			Vibrate(1);
+			audio.Play();
 			Instantiate(bullet, new Vector3(this.transform.position.x - tranNum,this.transform.position.y,this.transform.position.z), this.transform.rotation);
 		}
 	}

@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (name == "Player1") {
+		if (tag == "P1") {
 			x = Input.GetAxis ("LeftJoystickX");
 			y = Input.GetAxis ("LeftJoystickY");
 
@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour {
 				transform.position = new Vector3(-.5f,transform.position.y,transform.position.z);		
 			}*/
 
-		}else if (name == "Player2") {
+		}else if (tag == "P2") {
 			x = Input.GetAxis ("LeftJoystickX2");
 			y = Input.GetAxis ("LeftJoystickY2");
 		}
