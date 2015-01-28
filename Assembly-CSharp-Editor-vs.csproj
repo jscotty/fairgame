@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\Pixelplacement\StressBall\Editor\StressBall.cs" />
      <None Include="Assets\XInputDotNet\MITLicense.txt" />
+     <None Include="Assets\Materials\PlayerSkins\Idle_Tourist.xml" />
+     <None Include="Assets\Materials\PlayerSkins\Tourist_Running.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
