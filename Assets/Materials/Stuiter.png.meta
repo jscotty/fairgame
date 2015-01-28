@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: f68773c668ef64c41904d7dd3b066753
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stuiter_0
+    21300002: Stuiter_1
+    21300004: Stuiter_2
+    21300006: Stuiter_3
+    21300008: Stuiter_4
+    21300010: Stuiter_5
+    21300012: Stuiter_6
+    21300014: Stuiter_7
+    21300016: Stuiter_8
+    21300018: Stuiter_9
+    21300020: Stuiter_10
+    21300022: Stuiter_11
+    21300024: Stuiter_12
+    21300026: Stuiter_13
+    21300028: Stuiter_14
+    21300030: Stuiter_15
+    21300032: Stuiter_16
+    21300034: Stuiter_17
+    21300036: Stuiter_18
+    21300038: Stuiter_19
+    21300040: Stuiter_20
+    21300042: Stuiter_21
+    21300044: Stuiter_22
+    21300046: Stuiter_23
+    21300048: Stuiter_24
+    21300050: Stuiter_25
+    21300052: Stuiter_26
+    21300054: Stuiter_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stuiter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1696
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1696
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1696
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1696
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1696
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1696
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1344
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1344
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_10
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1344
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_11
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1344
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_12
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1344
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_13
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1344
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 992
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 992
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 992
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_18
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 992
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_19
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 992
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_20
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 992
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 640
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 640
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_24
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 640
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_25
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 640
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_26
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 640
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stuiter_27
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 640
+        width: 265
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 8f8ad2abbfe05e94683862d304758dbf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kut_kameel_0
+    21300002: kut_kameel_1
+    21300004: kut_kameel_2
+    21300006: kut_kameel_3
+    21300008: kut_kameel_4
+    21300010: kut_kameel_5
+    21300012: kut_kameel_6
+    21300014: kut_kameel_7
+    21300016: kut_kameel_8
+    21300018: kut_kameel_9
+    21300020: kut_kameel_10
+    21300022: kut_kameel_11
+    21300024: kut_kameel_12
+    21300026: kut_kameel_13
+    21300028: kut_kameel_14
+    21300030: kut_kameel_15
+    21300032: kut_kameel_16
+    21300034: kut_kameel_17
+    21300036: kut_kameel_18
+    21300038: kut_kameel_19
+    21300040: kut_kameel_20
+    21300042: kut_kameel_21
+    21300044: kut_kameel_22
+    21300046: kut_kameel_23
+    21300048: kut_kameel_24
+    21300050: kut_kameel_25
+    21300052: kut_kameel_26
+    21300054: kut_kameel_27
+    21300056: kut_kameel_28
+    21300058: kut_kameel_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kut_kameel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3643
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_1
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3643
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_2
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3643
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_3
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 3643
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_4
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3643
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_5
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 3643
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_6
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3643
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3190
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3190
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_9
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3190
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_10
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 3190
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_11
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3190
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_12
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 3190
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_13
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3190
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2737
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2737
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_16
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2737
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_17
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 2737
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_18
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2737
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_19
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 2737
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_20
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2737
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2284
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_22
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2284
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_23
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2284
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_24
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 2284
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_25
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2284
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_26
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 2284
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_27
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2284
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1831
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kut_kameel_29
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1831
+        width: 585
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
